@@ -1,0 +1,161 @@
+.wrapper-blogs {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 146px;
+}
+
+.info-flowers {
+    display: flex;
+    gap: 28px;
+}
+
+.flower-blog {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+}
+
+.img-fon {
+    background-color: #FBFBFB;
+    width: 586px;
+    height: 250px;
+}
+
+.img-flower {
+    width: 287px;
+    height: 292px;
+    padding-bottom: 10px;
+    mix-blend-mode: multiply;
+}
+
+.title {
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 24px;
+    color: #3D3D3D;
+    margin-bottom: 9px;
+    text-align: right;
+}
+
+.descriptions {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #727272;
+    margin-bottom: 25px;
+    text-align: right;
+    padding-left: 264px;
+}
+
+.flowers-content {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    padding-top: 89px;
+    padding-right: 30px;
+    padding-bottom: 46px;
+    width: 299px;
+}
+
+.findmore {
+    width: 140px;
+    background-color: #46A358;
+    color: white;
+    padding: 11px 28px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.img-findmore {
+    vertical-align: middle;
+    padding-left: 2px;
+}
+
+.blogs-tittle {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    padding-top: 138px;
+}
+
+.tittle-text1 {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 16px;
+    color: #3D3D3D;
+}
+
+.tittle-text2 {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #727272;
+}
+
+.blog-post {
+    display: flex;
+    gap: 43px;
+    padding-top: 35px;
+}
+
+.img-post {
+    width: 268px;
+    height: 195px;
+}
+
+.post-info {
+    padding: 9px 13px 12px;
+}
+
+.post-date {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: #46A358;
+    padding-bottom: 4px;
+}
+
+.post-tittle {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 26px;
+    color: #3D3D3D;
+    padding-right: 40px;
+    padding-bottom: 4px;
+}
+
+.post-descriptions {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #727272;
+    padding-bottom: 9px;
+}
+
+.post-link {
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: #3D3D3D;
+}
+
+.post {
+    background-color: #FBFBFB;
+}
+
+.post-link:hover {
+    color: #46A358;
+}
+
+.img-arrow {
+    vertical-align: middle;
+    padding-left: 3px;
+}

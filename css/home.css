@@ -1,0 +1,121 @@
+.wrapper-home {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header-home {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 0.3px solid #46A35880;
+    align-items: center;
+    padding-top: 25px;
+    padding-bottom: 18px;
+}
+
+.logo {
+    width: 150px;
+    height: 34px;
+    vertical-align: top;
+}
+
+.link-home {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #3D3D3D;
+    margin-right: 50px;
+}
+
+.link-home:hover {
+    color: #46A358;
+    font-weight: 700;
+    padding-bottom: 25px;
+    border-bottom: 3px solid #46A358;
+}
+
+.button-home {
+    width: 100px;
+    height: 35px;
+    background-color: #46A358;
+    color: white;
+    border-radius: 6px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    border: 0;
+    text-align: center;
+}
+
+.button-home-img {
+    width: 20px;
+    height: 20px;
+    vertical-align: top;
+    margin-right: 1px;
+}
+
+.content-home {
+    display: flex;
+    background-color: #F5F5F580;
+}
+
+.content-inner {
+    width: 693px;
+    padding-top: 68px;
+    padding-bottom: 85px;
+    padding-left: 40px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.welcome {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 1.4px;
+    color: #3D3D3D;
+    margin-bottom: 7px;
+}
+
+.inform {
+    width: 545px;
+    font-weight: 900;
+    font-size: 70px;
+    line-height: 70px;
+    color: #3D3D3D;
+    margin-bottom: 5px;
+}
+
+.inform .planet {
+    color: #46A358;
+}
+
+.descriptions {
+    width: 557px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #727272;
+}
+
+.shop-now {
+    width: 140px;
+    background-color: #46A358;
+    color: white;
+    padding: 10px 27px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 44px;
+}
+
+.flowers-right {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
